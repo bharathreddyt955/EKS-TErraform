@@ -1,5 +1,5 @@
 locals {
-  org = "ap-medium"
+  org = "creeno"
   env = var.env
 }
 
